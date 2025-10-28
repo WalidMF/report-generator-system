@@ -1,6 +1,0 @@
-.war-container{max-width:760px;margin:22px auto;padding:14px;border:1px solid #e6e6e6;border-radius:6px;background:#fff}
-.war-form .war-row{display:flex;flex-direction:column;margin-bottom:10px}
-.war-form label{font-weight:600;margin-bottom:6px}
-.war-form input[type="text"],.war-form input[type="file"],.war-form input{padding:8px;border:1px solid #ddd;border-radius:4px}
-.war-actions{display:flex;gap:10px;align-items:center}
-.war-status{font-size:14px}
